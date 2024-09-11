@@ -16,6 +16,8 @@ interfaces Datasheet - production data Features
 1), and DSP instructions
 • Memories – Up to 256 Kbytes of Flash memory – Up to 64 Kbytes of SRAM
  
+
+
  
 ## Procedure:
  1. click on STM 32 CUBE IDE, the following screen will appear 
